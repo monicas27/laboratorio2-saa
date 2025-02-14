@@ -1,4 +1,4 @@
-## Laboratório 2: Amazon EC2 e Armazenamento EBS
+## Amazon EC2 e Armazenamento EBS
 
 Nesse laboratório trabalhaei com instâncias EC2 e volumes EBS, aprendendo a criar, configurar e
 gerenciar esses recursos.
